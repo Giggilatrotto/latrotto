@@ -4,9 +4,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.fintech.budgeting.budgeting_app",
-      "sha256_cert_fingerprints": [
-        "19:56:DC:13:8B:2B:B6:79:AE:B5:57:2E:3D:1D:BB:4F:AB:DB:AE:A2:2F:AE:9F:49:CD:F3:AE:DD:14:20:93:9E"
-      ]
+      "sha256_cert_fingerprints":
+      ["19:56:DC:13:8B:2B:B6:79:AE:B5:57:2E:3D:1D:BB:4F:AB:DB:AE:A2:2F:AE:9F:49:CD:F3:AE:DD:14:20:93:9E"]
     }
   }
 ]
